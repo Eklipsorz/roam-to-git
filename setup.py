@@ -8,10 +8,10 @@ setup(
     version='0.2',
     license='MIT',
     description='Automatic RoamResearch backup to Git',
-    author='Matthieu Bizien',  # Type in your name
-    author_email='oao2005@gmail.com',  # Type in your E-Mail
-    url='https://github.com/MatthieuBizien/roam-to-git',
-    download_url='https://github.com/MatthieuBizien/roam-to-git/archive/v0.1.tar.gz',
+    author='Eklipsorz',  # Type in your name
+    author_email='eklipsorz@protonmail.ch',  # Type in your E-Mail
+    url='https://github.com/Eklipsorz/roam-to-git',
+    download_url='https://github.com/Eklipsorz/roam-to-git/archive/v0.1.tar.gz',
     keywords=['ROAMRESEARCH', 'GIT', 'BACKUP'],
     install_requires=[str(requirement) for requirement in
                       parse_requirements(open("requirements.txt"))],
